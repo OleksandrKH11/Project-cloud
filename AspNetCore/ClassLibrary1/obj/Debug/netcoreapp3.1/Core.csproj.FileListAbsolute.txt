@@ -1,0 +1,9 @@
+C:\Folder\Project\BackEnd\AspNetCore\ClassLibrary1\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Folder\Project\BackEnd\AspNetCore\ClassLibrary1\bin\Debug\netcoreapp3.1\Core.dll
+C:\Folder\Project\BackEnd\AspNetCore\ClassLibrary1\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Folder\Project\BackEnd\AspNetCore\ClassLibrary1\obj\Debug\netcoreapp3.1\Core.csprojAssemblyReference.cache
+C:\Folder\Project\BackEnd\AspNetCore\ClassLibrary1\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Folder\Project\BackEnd\AspNetCore\ClassLibrary1\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Folder\Project\BackEnd\AspNetCore\ClassLibrary1\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Folder\Project\BackEnd\AspNetCore\ClassLibrary1\obj\Debug\netcoreapp3.1\Core.dll
+C:\Folder\Project\BackEnd\AspNetCore\ClassLibrary1\obj\Debug\netcoreapp3.1\Core.pdb
